@@ -2,7 +2,7 @@ _LoreleiBeforeBattleText::
 	text "Welcome to"
 	line "#MON LEAGUE!"
 
-	para "I am LORELEI of"
+	para "I am JANE of"
 	line "the ELITE FOUR!"
 
 	para "No one can best"
@@ -37,6 +37,6 @@ _LoreleiAfterBattleText::
 	done
 
 _LoreleiDontRunAwayText::
-	text "Someone's voice:"
-	line "Don't run away!"
+	text "Jane's voice:"
+	line "Don't escape."
 	done

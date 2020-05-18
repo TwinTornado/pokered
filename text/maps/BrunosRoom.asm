@@ -1,5 +1,5 @@
 _BrunoBeforeBattleText::
-	text "I am BRUNO of"
+	text "I am FATBEAR of"
 	line "the ELITE FOUR!"
 
 	para "Through rigorous"
@@ -13,7 +13,7 @@ _BrunoBeforeBattleText::
 
 	para "<PLAYER>!"
 
-	para "We will grind you"
+	para "We will squash you"
 	line "down with our"
 	cont "superior power!"
 
@@ -32,6 +32,6 @@ _BrunoAfterBattleText::
 	done
 
 _BrunoDontRunAwayText::
-	text "Someone's voice:"
-	line "Don't run away!"
+	text "FatBear's voice:"
+	line "Hey! Don't go!"
 	done

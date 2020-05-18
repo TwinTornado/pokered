@@ -1,10 +1,10 @@
 _LanceBeforeBattleText::
-	text "Ah! I heard about"
+	text "Oh, so it's"
 	line "you <PLAYER>!"
 
 	para "I lead the ELITE"
 	line "FOUR! You can"
-	cont "call me LANCE the"
+	cont "call me MONICA the"
 	cont "dragon trainer!"
 
 	para "You know that"
